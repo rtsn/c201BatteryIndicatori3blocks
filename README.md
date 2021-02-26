@@ -4,7 +4,11 @@ A very simple i3blocks battery indicator written in Python for the ASUS Chromebo
 Nothing fancy but does the job.
 
 # todo
+* handle error when path not found
+* consistent variable names
+* improve comments
 * fontawesome icons
 * write better README
 * provide block example
+* provide example output
 * nice picture.
