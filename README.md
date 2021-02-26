@@ -1,2 +1,5 @@
 # c201BatteryIndicatori3blocks
-Battery indicator in i3blocks for ASUS Chromebook C201
+A very simple i3blocks battery indicator written in Python for the ASUS Chromebook C201. 
+
+# todo
+* fontawesome icons
