@@ -12,3 +12,4 @@ Nothing fancy but does the job.
 * provide block example
 * provide example output
 * nice picture.
+* pip3 install fontawesome
